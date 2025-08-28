@@ -17,7 +17,7 @@ Di dalam file `index.html`, ada bagian **script kecil di bagian paling bawah** s
 <script>
   (function(){
     const data = {
-      nama: 'Fuad',
+      nama: 'inayah',
       hobi: ['Pengembangan Web','Membaca & Menulis','Fotografi Konsep'],
       cita: 'Menjadi pengembang web berpengaruh yang membangun produk digital yang memecahkan masalah nyata dan menginspirasi tim.'
     };
@@ -39,9 +39,9 @@ Di dalam file `index.html`, ada bagian **script kecil di bagian paling bawah** s
    * Cari bagian:
 
      ```js
-     nama: 'Fuad',
+     nama: 'inayah',
      ```
-   * Ganti `Fuad` dengan nama Anda.
+   * Ganti `inayah` dengan nama Anda.
      Contoh:
 
      ```js
